@@ -24,7 +24,10 @@ RegisterNumber:
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+<img width="752" height="148" alt="image" src="https://github.com/user-attachments/assets/408d0c92-9ba5-4d34-a0b2-2730c6c2137d" />
+<img width="362" height="95" alt="image" src="https://github.com/user-attachments/assets/904234e8-9848-42c9-9894-e8f7603bf8ba" />
+<img width="1136" height="694" alt="image" src="https://github.com/user-attachments/assets/da497409-fe5c-4be8-b20b-e4205d660262" />
+
 
 
 ## Result:
